@@ -24,7 +24,7 @@
   
  During my free time I enjoy reading, drawing, working out, editing videos, or taking photos.
  
-https://www.youtube.com/embed/v04N0no2fAU
+[https://www.youtube.com/embed/v04N0no2fAU](https://youtu.be/v04N0no2fAU)
  
  This is a video I edited of photos I took for a boy I babysat.
  
