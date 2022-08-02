@@ -32,7 +32,7 @@
  
 - Regents' and Chancellor's Scholar (University of California, Berkeley), 2022 - 2026
 - SEED Honors Scholar (University of California, Berkeley), 2022 - 2026
-- AP Scholar Award (National), 2020 - 2021
+- AP Scholar Award (National), 2020 - 2021 
 - North Coast Section Scholar Athlete (4.00+ GPA, Golf) (Regional), 2018 - 2021
 - 1st, 4th, 5th place Science Olympiad Events (Regional), 2020 - 2021
 
