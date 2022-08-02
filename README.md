@@ -8,18 +8,18 @@
 - University of California, Berkeley (2022 - 2026)          
     - Double Major in Molecular Cell Biology and Marine Science
 
- <img src="./18A62605-11EE-467F-8C09-99348FA42F84.jpg" style="width:25%; margin:auto; display:block">
+ <img src="./18A62605-11EE-467F-8C09-99348FA42F84.jpg" style="width:40%; margin:auto; display:block">
  
  
 ### Personal Life
  
  I have been in a relationship with my boyfriend, Emilio, since eighth grade. We're best friends, and I could not imagine life without him.
  
-  <img src="./IMG_5591.JPG" style="width:25%; margin:auto; display:block">
+  <img src="./IMG_5591.JPG" style="width:40%; margin:auto; display:block">
   
  I also have my own dog, Dexter, who I love dearly.
  
- <img src="./984A153E-D991-45AE-8639-8A25BEAF18B6.JPG" style="width:25%; margin:auto; display:block">
+ <img src="./984A153E-D991-45AE-8639-8A25BEAF18B6.JPG" style="width:40%; margin:auto; display:block">
   
   
  During my free time I enjoy reading, drawing, working out, editing videos, or taking photos.
@@ -70,7 +70,7 @@ the new school year by spending additional hours over the summer working with
 them on anticipated curriculum.
 - Raised the grades of one and taught another to read.
 
-<img src="./IMG_1210.JPG" style="width:30%; margin:auto; display:block">
+<img src="./IMG_1210.JPG" style="width:40%; margin:auto; display:block">
 
 **Aced It! Tutoring, 2020 - 2021**
 - Founded company, Aced It! Tutoring, during COVID-19 pandemic and hired five
