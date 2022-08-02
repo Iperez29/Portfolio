@@ -13,9 +13,10 @@
  
  ### Personal Life
  
- I have been in a relationship with my boyfriend, Emilio, since eighth grade.
+ I have been in a relationship with my boyfriend, Emilio, since eighth grade. We're best friends, and I could not imagine life without him.
  
- 
+  <img src="./IMG_5591.JPG" style="width:25%; margin:auto; display:block">
+  
  I also have my own dog, Dexter, who I love dearly.
  
  <img src="./984A153E-D991-45AE-8639-8A25BEAF18B6.JPG" style="width:25%; margin:auto; display:block">
