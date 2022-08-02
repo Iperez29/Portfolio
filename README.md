@@ -29,4 +29,4 @@ applications workshops.
 - Worked with the Gawad Lab and a partner to develop a research poster on
 clonal hematopoesis and mutated XAF1 and TP53 alleles in a Brazilian family.
 
- <img src="./18A62605-11EE-467F-8C09-99348FA42F84.jpg" style="width:25%; margin:auto; display:block">
+ <img src="./PIPS Research Poster (1)1024_1.jpg" style="width:25%; margin:auto; display:block">
