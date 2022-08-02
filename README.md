@@ -22,7 +22,11 @@
  <img src="./984A153E-D991-45AE-8639-8A25BEAF18B6.JPG" style="width:25%; margin:auto; display:block">
   
   
- During my free time I enjoy reading, drawing, working out, or taking photos.
+ During my free time I enjoy reading, drawing, working out, editing videos, or taking photos.
+ 
+https://www.youtube.com/embed/v04N0no2fAU
+ 
+ This is a video I edited of photos I took for a boy I babysat.
  
 ### Awards
  
