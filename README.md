@@ -8,6 +8,14 @@
 - University of California, Berkeley (2022 - 2026)          
     - Double Major in Molecular Cell Biology and Marine Science
  <img src="./18A62605-11EE-467F-8C09-99348FA42F84.jpg" style="width:25%; margin:auto; display:block">
+ 
+ ### Awards
+ 
+- Regents' and Chancellor's Scholar (UC Berkeley), 2022 - 2026
+- SEED Honors Scholar (UC Berkeley), 2022 - 2026
+- AP Scholar Award (National), 2020 - 2021
+- North Coast Section Scholar Athlete (4.00+ GPA, Golf) (Regional), 2018 - 2021
+- 1st, 4th, 5th place Science Olympiad Events (Regional), 2020 - 2021
 
 ### Research Experience
 
