@@ -18,7 +18,9 @@
  
  I also have my own dog, Dexter, who I love dearly.
  
- 
+ <img src="./984A153E-D991-45AE-8639-8A25BEAF18B6.JPG" style="width:25%; margin:auto; display:block">
+  
+  
  During my free time I enjoy reading, drawing, working out, or taking photos.
  
 
