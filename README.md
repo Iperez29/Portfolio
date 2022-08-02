@@ -29,4 +29,23 @@ applications workshops.
 - Worked with the Gawad Lab and a partner to develop a research poster on
 clonal hematopoesis and mutated XAF1 and TP53 alleles in a Brazilian family.
 
+
  <img src="./IMG_6413.jpg" style="width:80%; margin:auto; display:block">
+
+### Work Experience
+
+**Nanny - 2020 - 2022**
+- Regularly cared for four children aged 2-14 to support working parents.
+- Attended their sporting events, took them to practices, oversaw them on vacations,
+and made them healthy snacks.
+- Helped the children with homework during the school year and prepared them for
+the new school year by spending additional hours over the summer working with
+them on anticipated curriculum.
+- Raised the grades of one and taught another to read.
+
+**Aced It! Tutoring - 2020 - 2021**
+- Founded company, Aced It! Tutoring, during COVID-19 pandemic and hired five
+subject-specific tutors who engaged with students virtually daily.
+- Built a website, billed clients, donated school supplies to local Lutheran church,
+and raised the grades of thirteen diverse students.
+- Mentored special needs pupils with autism, ADHD, and behavioral issues.
