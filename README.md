@@ -10,6 +10,18 @@
 
  <img src="./18A62605-11EE-467F-8C09-99348FA42F84.jpg" style="width:25%; margin:auto; display:block">
  
+ 
+ ### Personal Life
+ 
+ I have been in a relationship with my boyfriend, Emilio, since eighth grade.
+ 
+ 
+ I also have my own dog, Dexter, who I love dearly.
+ 
+ 
+ During my free time I enjoy reading, drawing, working out, or taking photos.
+ 
+
  ### Awards
  
 - Regents' and Chancellor's Scholar (University of California, Berkeley), 2022 - 2026
