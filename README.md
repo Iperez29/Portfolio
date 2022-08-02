@@ -11,15 +11,15 @@
  
  ### Awards
  
-- Regents' and Chancellor's Scholar (UC Berkeley), 2022 - 2026
-- SEED Honors Scholar (UC Berkeley), 2022 - 2026
+- Regents' and Chancellor's Scholar (University of California, Berkeley), 2022 - 2026
+- SEED Honors Scholar (University of California, Berkeley), 2022 - 2026
 - AP Scholar Award (National), 2020 - 2021
 - North Coast Section Scholar Athlete (4.00+ GPA, Golf) (Regional), 2018 - 2021
 - 1st, 4th, 5th place Science Olympiad Events (Regional), 2020 - 2021
 
 ### Research Experience
 
-**Harvard University Pre-College - Summer 2020**
+**Harvard University Pre-College, Summer 2020**
 - Took two courses on oncology: "Introduction to Cancer: Diving into Research"
 and "Molecular Oncology: Unravelling Molecular Biology Techniques" with Dr.
 Julie Konge.
@@ -29,7 +29,7 @@ and benign tumors.
 - In the second course, I worked with real case studies to identify the severity of
 cancers and their inheritance patterns.
 
-**Pediatric Internship at Stanford University - Summer 2021**
+**Pediatric Internship at Stanford University, Summer 2021**
 - Spent 15 hours a week working on research project and 5 hours a week on
 professional development, networking, research practices, and college
 applications workshops.
@@ -38,11 +38,11 @@ applications workshops.
 clonal hematopoesis and mutated XAF1 and TP53 alleles in a Brazilian family.
 
 
- <img src="./IMG_6413.jpg" style="width:80%; margin:auto; display:block">
+<img src="./IMG_6413.jpg" style="width:80%; margin:auto; display:block">
 
 ### Work Experience
 
-**Nanny - 2020 - 2022**
+**Nanny, 2020 - 2022**
 - Regularly cared for four children aged 2-14 to support working parents.
 - Attended their sporting events, took them to practices, oversaw them on vacations,
 and made them healthy snacks.
@@ -51,7 +51,9 @@ the new school year by spending additional hours over the summer working with
 them on anticipated curriculum.
 - Raised the grades of one and taught another to read.
 
-**Aced It! Tutoring - 2020 - 2021**
+<img src="./IMG_1210.JPG" style="width:30%; margin:auto; display:block">
+
+**Aced It! Tutoring, 2020 - 2021**
 - Founded company, Aced It! Tutoring, during COVID-19 pandemic and hired five
 subject-specific tutors who engaged with students virtually daily.
 - Built a website, billed clients, donated school supplies to local Lutheran church,
